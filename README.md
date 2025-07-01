@@ -21,6 +21,13 @@
   </a>
 </p>
 
+## 🚀 Welcome!
+
+I'm a passionate software engineering student building projects with modern technologies.  
+Here you'll find my experiments, tools, and apps focused on learning, solving real problems, and growing as a developer.  
+
+**Always learning. Always coding.**
+
 
 <h2 align="center">🛠️ Tech Skills</h2>
 
