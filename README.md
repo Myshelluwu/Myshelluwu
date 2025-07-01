@@ -1,21 +1,19 @@
-<h1 align="center">
-  <p>Hi! I'm Michelle Sanchez✨</p>
-</h1>
+<h1 align="center">✨ Hi, I'm Michelle Sanchez ✨</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/myshell-sanchez//" target="blank">
-    <img align="center"
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/myshell.uwu/" target="blank">
-    <img align="center"
-      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="mailto:sanchezbarbamichelle@gmail.com" target="blank">
-   <img align="center" 
-     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg"
-      alt="adampithewan" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/myshell-sanchez/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/myshell.uwu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sanchezbarbamichelle@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email"/>
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,18 +22,37 @@
 </p>
 
 
+<h2 align="center">🛠️ Tech Skills</h2>
 
-<!--
-**Myshelluwu/Myshelluwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:20px;">
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <h3>🧠 Programming Languages</h3>
+      <p><img src="https://skillicons.dev/icons?i=java,python,cpp,php,js" height="40" /></p>
+      <h3>🌐 Front-End Development</h3>
+      <p><img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40" /></p>
+      <h3>☁️ DevOps & Cloud</h3>
+      <p><img src="https://skillicons.dev/icons?i=aws,docker,firebase" height="40" /></p>
+      <h3>⚙️ Back-End Development</h3>
+      <p><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></p>
+    </td>
+    <td style="width:50%; vertical-align:top;">
+      <h3>📱 Mobile Development</h3>
+      <p><img src="https://skillicons.dev/icons?i=dart,flutter" height="40" /></p>
+      <h3>🧪 Development Tools</h3>
+      <p><img src="https://skillicons.dev/icons?i=postman,vscode,idea,git" height="40" /></p>
+      <h3>🛢️ Databases</h3>
+      <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="40" /></p>
+      <h3>🎨 Design & Prototyping</h3>
+      <p><img src="https://skillicons.dev/icons?i=figma" height="40" /></p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Myshelluwu&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myshelluwu&layout=donut&theme=midnight-purple&hide_border=true" height="180" alt="Top Languages"/>
+</p>
